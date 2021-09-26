@@ -30,7 +30,7 @@ Open StacKilipper.ino and HeaderSample.h via Arduino IDE and then build them.
 * Support Bluetooth connection Klipper server and M5Stack.
 
 # Licence
-Creative Commons.
+GPLv3
 
 # Acknowledgments
 lovyan03 (https://github.com/lovyan03/), who create M5TreeView and M5OnScreenKeyboard.
