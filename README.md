@@ -14,7 +14,7 @@ Add two external library to Arduino IDE.
 
 You also have to add ESP32 Arduino board libraly, Arduino M5Stack library, and Arduino_JSON library.
 
-Open StacKilipper.ino and HeaderSample.h via Arduino IDE and then build them.
+Open StacKilipper.ino via Arduino IDE and edit SSID, PASSWORD, Klipper IP adress as yours. Then build them.
 
 # Screenshot
 ![image0(1)](https://user-images.githubusercontent.com/3067670/134805837-d0115359-6195-484d-8ded-0dcf1a991599.jpeg)
