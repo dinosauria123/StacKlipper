@@ -15,6 +15,9 @@ You also have to add ESP32 Arduino board libraly, Arduino M5Stack library, and A
 
 Open StacKilipper.ino and HeaderSample.h then build them.
 
+# Screenshot
+![image0(1)](https://user-images.githubusercontent.com/3067670/134805837-d0115359-6195-484d-8ded-0dcf1a991599.jpeg)
+
 # What can do
 * Show status of the 3D printer inromation 
 * Set Bed and Nozzle temperature
