@@ -27,7 +27,7 @@ Open StacKilipper.ino via Arduino IDE and edit SSID, PASSWORD, Klipper IP adress
 * Emergency stop (M112)
 
 # To do
-* Support Bluetooth connection Klipper server and M5Stack.
+* Support Bluetooth connection M5Stack to Klipper server.
 
 # Licence
 GPLv3
