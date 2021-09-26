@@ -1,5 +1,5 @@
 # StacKlipper
-Wireless Remote controller for Klipper 3D printers
+Wireless remote controller for Klipper 3D printers
 
 # Description
 StacKlipper is a remote controller for Klipper 3D printers made by M5Stack.
