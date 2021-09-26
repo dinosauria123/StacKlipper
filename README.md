@@ -30,4 +30,5 @@ Creative Commons.
 
 # Acknowledgments
 lovyan03 (https://github.com/lovyan03), who create M5TreeView and M5OnScreenKeyboard.
+
 Discord group Klipper_jp (https://discord.com/channels/889871356609581086/), provided information and suggenstion about this program.
