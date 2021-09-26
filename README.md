@@ -19,11 +19,11 @@ Open StacKilipper.ino and HeaderSample.h via Arduino IDE and then build them.
 ![image0(1)](https://user-images.githubusercontent.com/3067670/134805837-d0115359-6195-484d-8ded-0dcf1a991599.jpeg)
 
 # What can do
-* Show status of the 3D printer inromation 
+* Show status of the imformation of 3D printer 
 * Set Bed and Nozzle temperature
 * Move Home position and any XYZ position
 * Reset firmware
-* Emergency stop
+* Emergency stop (M112)
 
 # To do
 * Support Bluetooth connection Klipper server and M5Stack.
