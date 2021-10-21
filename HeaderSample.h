@@ -30,6 +30,8 @@ public:
     case WL_CONNECT_FAILED : return "CONNECT_FAILED";
     case WL_CONNECTION_LOST: return "CONNECTION_LOST";
     case WL_DISCONNECTED   : return "DISCONNECTED";
+      default:
+        break;
     }
     return "";
   }
