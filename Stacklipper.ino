@@ -205,7 +205,7 @@ void EmergencyStop(MenuItem* sender)
 {
   MenuItemNumeric* mi = static_cast<MenuItemNumeric*>(sender);
   if (!mi) return;
-  command = "printer/gcode/script?script=M112";
+  command = "printer/emergency_stop";
   http.begin(serverPath.c_str()+command);
   http.GET();
 }
